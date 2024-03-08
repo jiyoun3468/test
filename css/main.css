@@ -307,6 +307,7 @@ body {
 .drop_menu .li a {
   display: block;
   width: 100px;
+  font-weight: 600;
 }
 
 .drop_menu span {
@@ -452,7 +453,7 @@ h3 {
 }
 
 .leave_title p {
-  font-size: 25px;
+  font-size: 22px;
   font-weight: 900;
   color: #686868;
   text-align: center;
